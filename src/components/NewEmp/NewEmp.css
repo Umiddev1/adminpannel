@@ -1,0 +1,46 @@
+.newemp {
+  padding: 32px;
+}
+.newemp__wrapper {
+  display: flex;
+}
+.newemp__des {
+  padding-left: 32px;
+}
+.newemp__title {
+  font-size: 1.25rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: 0.070em;
+}
+.newemp__text {
+  font-size: 16px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.57;
+  letter-spacing: 0.00800em;
+  opacity: 0.6;
+}
+
+.boxs {
+  background-color: #F4F5FD;
+  padding: 48px;
+}
+
+.tble {
+  background-color: #E2E3F3;
+}
+
+.bigdata__inps {
+  padding:24px 64px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} 
+.bigdata__inp {
+  width: 74%;
+}
+label {
+  position: relative;
+}
